@@ -1,0 +1,77 @@
+[
+  {
+    "name": "银行职员-县城",
+    "answers": {
+      "q1": "data",
+      "q2": "1-2h",
+      "q3": "both",
+      "q4": "sop",
+      "q5": "lt500",
+      "q6": "懂银行业务、贷款流程、征信报告、个人理财",
+      "q7": "1-3month",
+      "q8": "none",
+      "q9": "privacy"
+    },
+    "expectedDirection": "贷款材料优化 or 征信报告解读"
+  },
+  {
+    "name": "教师-外向-二线",
+    "answers": {
+      "q1": "people",
+      "q2": "gt2h",
+      "q3": "desktop",
+      "q4": "explore",
+      "q5": "lt500",
+      "q6": "文字表达能力强、会做PPT、擅长教案和课程设计",
+      "q7": "1-3month",
+      "q8": "tried",
+      "q9": "no-traffic"
+    },
+    "expectedDirection": "PPT美化 or 公众号流量主 or Notion模板"
+  },
+  {
+    "name": "程序员-内向-一线",
+    "answers": {
+      "q1": "tech",
+      "q2": "1-2h",
+      "q3": "desktop",
+      "q4": "explore",
+      "q5": "500-2000",
+      "q6": "Java和Python、VBA自动化、项目管理",
+      "q7": "1-3month",
+      "q8": "tried",
+      "q9": "no-profit"
+    },
+    "expectedDirection": "Excel/VBA自动化 or AI提示词工程"
+  },
+  {
+    "name": "全职妈妈-县城",
+    "answers": {
+      "q1": "data",
+      "q2": "irregular",
+      "q3": "mobile",
+      "q4": "sop",
+      "q5": "0",
+      "q6": "会计专业背景、细心、时间不固定、不方便出门",
+      "q7": "immediate",
+      "q8": "none",
+      "q9": "waste-time"
+    },
+    "expectedDirection": "闲鱼无货源 or 数据标注 or 代记账"
+  },
+  {
+    "name": "大学生-外向-新一线",
+    "answers": {
+      "q1": "creative",
+      "q2": "gt2h",
+      "q3": "both",
+      "q4": "explore",
+      "q5": "0",
+      "q6": "市场营销专业、会剪辑P图、熟悉抖音小红书",
+      "q7": "immediate",
+      "q8": "none",
+      "q9": "scam"
+    },
+    "expectedDirection": "短视频剪辑接单 or 小红书图文带货"
+  }
+]
